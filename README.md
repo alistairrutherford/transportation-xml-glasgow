@@ -17,7 +17,7 @@ http://data.glasgow.gov.uk/dataset/glasgow-car-parks-feed
 
 License
 --------
-[Copyright - Alistair Rutherford 2013 - www.netthreads.co.uk]
+[Copyright - Alistair Rutherford 2014 - www.netthreads.co.uk]
 
 Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
